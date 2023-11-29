@@ -7,3 +7,6 @@ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.2
 
 # Add path
 export PATH="$PATH:$HOME/go/bin"
+
+# Optional. Install Task Util for generate go files
+sudo snap install task --classic
