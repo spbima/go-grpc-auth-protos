@@ -1,4 +1,4 @@
-module go-grpc-auth-protos
+module github.com/spbima/go-grpc-auth-protos
 
 go 1.21
 
